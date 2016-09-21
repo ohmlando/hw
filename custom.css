@@ -1,0 +1,21 @@
+body{padding: 15px;}
+.main{border: 1px solid #bababa;padding: 15px; }
+h1{color: red;}
+a{color:red;}
+.fix {margin-right: 0 !important;}
+.header-img{width:100%; height:300px; margin-bottom: 10px }
+.gallery img {width: 328px; height:210px; margin-right: 4px;}
+.btn {
+  background: #d9a234;  
+  background-image: linear-gradient(to bottom, #d9a234, #b82b2b);
+  border-radius: 15px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn:hover {
+  background: #fabb3c;
+  text-decoration: none;
+}
